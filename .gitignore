@@ -1,0 +1,18 @@
+# Prerequisites & Binaries
+*.out
+*.o
+*.obj
+*.exe
+solution
+a.out
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*~
